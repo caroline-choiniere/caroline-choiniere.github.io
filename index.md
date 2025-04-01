@@ -1,8 +1,8 @@
 ## Caroline C.
-&nbsp; &nbsp; B.S. Environmental Science 
-&nbsp; &nbsp; Southern New Hampshire University
+&nbsp; &nbsp; B.S. Environmental Science <br/>
+&nbsp; &nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: caroline.choiniere@snhu.edu <br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html) <br/>
 
 <br/>
 <br/>
