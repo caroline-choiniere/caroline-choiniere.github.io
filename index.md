@@ -2,7 +2,7 @@
 B.S. Environmental Science <br/>
 Southern New Hampshire University <br/>
 email: caroline.choiniere@snhu.edu <br/>
-([Resume](https://app.joinhandshake.com/docs/55624969)) <br/>
+[Resume](https://app.joinhandshake.com/docs/55624969) <br/>
 
 ### About Me
 
