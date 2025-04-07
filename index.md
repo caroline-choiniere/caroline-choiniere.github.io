@@ -12,7 +12,7 @@
  
  I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
  
- [Hummingbird Clearwing Hawkmoth](Snowberry-Clearwing-Moth-768x548.jpg)
+ ![Hummingbird Clearwing Hawkmoth](https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/4935e90fb7243806f6f6d730d6d82887af95aacc/Snowberry-Clearwing-Moth-768x548.jpgSnowberry-Clearwing-Moth-768x548.jpg)
  
  ### Sample Work Products
  #### Undergraduate Research Day 2024
