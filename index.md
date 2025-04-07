@@ -12,6 +12,8 @@ I am an experienced plant retail merchandiser known for communication, problem s
 
 I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
 
+[Hummingbird Clearwing Hawkmoth](
+
 ### Sample Work Products
 #### Undergraduate Research Day 2024
 Check out [my undergraduate research day 2024 poster](https://hdl.handle.net/10474/3833) from Spring 2024!
