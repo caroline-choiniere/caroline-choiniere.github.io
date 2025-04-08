@@ -12,7 +12,7 @@ I am an experienced plant retail merchandiser known for communication, problem s
  
 I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
 
-<img src="SiteFiles/Snowberry-Clearwing-Moth-768x548.jpg" align="center"; Hummingbird Clearwing Hawkmoth>
+<img src="SiteFiles/Snowberry-Clearwing-Moth-768x548.jpg" align="center"; Snowberry Clearwing Moth<br/>
 
 ## Sample Work Products
 ### Undergraduate Research Day 2024
