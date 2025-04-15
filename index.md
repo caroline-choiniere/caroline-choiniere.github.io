@@ -2,8 +2,8 @@
  B.S. Environmental Science <br/>
  Southern New Hampshire University <br/>
  email: caroline.choiniere@snhu.edu <br/>
- [Resume](https://app.joinhandshake.com/docs/55624969) <br/>
- 
+ [Resume](https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/367007f269d4ef6fc9d3925fd4a1d8932b7957d4/Resume%20doc%20v.pdf) <br/>
+
 ## About Me
  
 As a child, I would bring insects to my wary mother and she would always say, “Caroline you are either going to be an entomologist or a botanist.” I was given an echeveria amoena succulent when I was seven and knew at that moment what I wanted to do with my future.
