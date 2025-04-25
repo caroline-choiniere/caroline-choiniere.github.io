@@ -22,7 +22,7 @@ Presented research examining the structure of the sod farming industry as resear
 ## Palmers Penguins [Analysis here](https://caroline-choiniere.github.io/BioStat/PPHW3.html)
 Creating and rendering a Quarto document containing an analysis on the palmerpenguins data into a reproducible report. Then making a local repository in GitHub.
 
-## Extinct Plants Dataset Analysis [Analysis here](https://caroline-choiniere.github.io/BioStat/ExtPlaHW4.html)
+## Extinct Plants Dataset Breakdown [Analysis here](https://caroline-choiniere.github.io/BioStat/ExtPlaHW4.html)
 The data being worked with is from the International Union for Conservation of Nature (IUNC) Red List of Threatened Species (Version 2020-1). Florent Lavergne scrapped and prepared the Plants in Danger project to develop an info-graphic showing the biodiversity crisis plants are undergoing around the world. The data set is being used to explore the link between socio-economic activity and plant extinction. Determining if extinction risk varies by region is another potential use of the data set. Africa and Madagascar have the highest count of extinct plant species per Continent and Country with links to socio-economic disturbance in the forms of over-industrialization of green areas and disruption of natural forest (Feintrenie, 2014; Ralimanana et al., 2022). It is shown in IUCN data that over-exploitation and unsustainable agricultural practices in Madagascar are a threat to biodiversity (Stévart et al., 2019). Plant extinction varies by Continent, and a link to social or economic activity is found in Africa and Madagascar.
 
 IUCN (2020) The IUCN Red List of Threatened Species. Version 2020-1. https://www.iucnredlist.org
