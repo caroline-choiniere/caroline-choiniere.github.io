@@ -1,10 +1,10 @@
 ## Caroline Choiniere
  B.S. Environmental Science <br/>
  Southern New Hampshire University <br/>
- email: caroline.choiniere@snhu.edu <br/>
+ Email: caroline.choiniere@snhu.edu <br/>
  [Resume](https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/367007f269d4ef6fc9d3925fd4a1d8932b7957d4/Resume%20doc%20v.pdf) <br/>
 
-<img src="[SiteFiles/IMG_6011.JPG](https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/710a2519fc69fd27e1250a0692c4c4dc6a086f21/IMG_6011.JPG)" align="left" width=200> &nbsp; 
+<img src="https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/ecc109053ada80bafaa238cdf8588cb974a801cc/IMG_9034.jpeg" width="300" height="500" align="left">
 
 ## About Me
  
@@ -14,7 +14,11 @@ I am an experienced plant retail merchandiser known for communication, problem s
  
 I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
 
-![CHM](https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/main/Snowberry-Clearwing-Moth-768x548.jpg?raw=true)
+<p>
+<img src="https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/main/Snowberry-Clearwing-Moth-768x548.jpg?raw=true" width="317" height="400" align="middle">
+<img src="https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/ecc109053ada80bafaa238cdf8588cb974a801cc/IMG_1086.JPG" width="325" height="224" align="right">
+</p>
+
 
 ## Sample Work Products
 ### Undergraduate Research Day 2024
@@ -39,6 +43,7 @@ RNA-seq part 2 is focusing on visualizing data and narrowing down on genes that 
 
 ## Phylogenetics with R [Analysis here](https://caroline-choiniere.github.io/BioInformatics/PAVhw9.1.html)
 Learned how to analyze data to build phylogenies; and phylogentic trees will be made using genetic data and big datasets. ape and treeio packages will be used to create formats of evolutionary trees, then playing with ggtree to see how to create different visuals of evolutionary trees. The final goal is to interpret the output of the programs and read an evolutionary tree. This exercise uses many basics from ggplot and I will have to try some formatting and display alternatives in future projects to see what changes in the tree visuals.
+
 
 
 
