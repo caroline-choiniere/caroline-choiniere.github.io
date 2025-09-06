@@ -14,12 +14,6 @@ I am an experienced plant retail merchandiser known for communication, problem s
  
 I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
 
-<p>
-<img src="https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/main/Snowberry-Clearwing-Moth-768x548.jpg?raw=true" width="317" height="400" align="middle">
-<img src="https://github.com/caroline-choiniere/caroline-choiniere.github.io/blob/ecc109053ada80bafaa238cdf8588cb974a801cc/IMG_1086.JPG" width="325" height="224" align="right">
-</p>
-
-
 ## Sample Work Products
 ### Undergraduate Research Day 2024
 Check out [my undergraduate research day 2024 poster](https://hdl.handle.net/10474/3833) from Spring 2024!
@@ -43,6 +37,7 @@ RNA-seq part 2 is focusing on visualizing data and narrowing down on genes that 
 
 ## Phylogenetics with R [Analysis here](https://caroline-choiniere.github.io/BioInformatics/PAVhw9.1.html)
 Learned how to analyze data to build phylogenies; and phylogentic trees will be made using genetic data and big datasets. ape and treeio packages will be used to create formats of evolutionary trees, then playing with ggtree to see how to create different visuals of evolutionary trees. The final goal is to interpret the output of the programs and read an evolutionary tree. This exercise uses many basics from ggplot and I will have to try some formatting and display alternatives in future projects to see what changes in the tree visuals.
+
 
 
 
