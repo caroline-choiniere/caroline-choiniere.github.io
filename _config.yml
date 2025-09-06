@@ -1,6 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+theme: minimal-mistakes-jekyll
 title: Hi there!
 description: My name is Caroline! Welcome to my public GitHub page!
-plugins: 
-  - jekyll-include-cache
-  
+
+
