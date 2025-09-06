@@ -1,4 +1,4 @@
-## Caroline Choiniere
+
  B.S. Environmental Science <br/>
  Southern New Hampshire University <br/>
  Email: caroline.choiniere@snhu.edu <br/>
@@ -42,6 +42,7 @@ RNA-seq part 2 is focusing on visualizing data and narrowing down on genes that 
 
 ### Phylogenetics with R [Analysis here](https://caroline-choiniere.github.io/BioInformatics/PAVhw9.1.html)
 Learned how to analyze data to build phylogenies; and phylogentic trees will be made using genetic data and big datasets. ape and treeio packages will be used to create formats of evolutionary trees, then playing with ggtree to see how to create different visuals of evolutionary trees. The final goal is to interpret the output of the programs and read an evolutionary tree. This exercise uses many basics from ggplot and I will have to try some formatting and display alternatives in future projects to see what changes in the tree visuals.
+
 
 
 
