@@ -1,5 +1,6 @@
 theme: minimal-mistakes-jekyll
 title: Hi there!
 description: My name is Caroline! Welcome to my public GitHub page!
-
+plugins:
+  - jekyll-include-cache
 
