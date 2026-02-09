@@ -19,11 +19,11 @@
 
 ## About Me
  
-As a child, I would bring insects to my wary mother and she would always say, “Caroline you are either going to be an entomologist or a botanist.” I was given an echeveria amoena succulent when I was seven and knew at that moment what I wanted to do with my future.
- 
-I am an experienced plant retail merchandiser known for communication, problem solving, and detail driven analysis. I have developed a deep interest in plant-insect interactions as well as helping customers design native plant landscapes. A highlight of my day is seeing the hummingbird clearwing hawkmoths as well as other Lepidoptera species. 
- 
-I am an aspiring environmental science student at Southern New Hampshire University with a focus on combining environmental science and horticulture in my personal and professional life.
+As a child, I brought insects to my wary mother, who often joked, “Caroline, you’re either going to be an entomologist or a botanist.” When I was seven, I was given an Echeveria amoena succulent, and in that moment I knew plants would shape my future.
+
+I am an environmental science graduate and experienced plant retail merchandiser known for strong communication, problem solving, and detail-driven analysis. Through hands-on work, I have developed a deep interest in plant–insect interactions and enjoy helping customers design functional, native plant landscapes that support local ecosystems. One of the highlights of my work is observing pollinators such as hummingbird clearwing hawkmoths and other Lepidoptera species in active landscapes.
+
+My academic and professional interests sit at the intersection of environmental science, horticulture, and data-informed decision-making. I am particularly interested in environmental policy, planning, and analytical pathways that support sustainable land use, biodiversity, and community-focused environmental solutions.
 
 ## Sample Work Products
 ### Undergraduate Research Day 2024
@@ -48,6 +48,7 @@ RNA-seq part 2 is focusing on visualizing data and narrowing down on genes that 
 
 ### Phylogenetics with R [Analysis here](https://caroline-choiniere.github.io/BioInformatics/PAVhw9.1.html)
 Learned how to analyze data to build phylogenies; and phylogentic trees will be made using genetic data and big datasets. ape and treeio packages will be used to create formats of evolutionary trees, then playing with ggtree to see how to create different visuals of evolutionary trees. The final goal is to interpret the output of the programs and read an evolutionary tree. This exercise uses many basics from ggplot and I will have to try some formatting and display alternatives in future projects to see what changes in the tree visuals.
+
 
 
 
